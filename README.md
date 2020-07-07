@@ -12,7 +12,7 @@
 </p>
 
 ## Sobre
-Versão WEB de aplicação desenvolvida para criação de pedidos em restaurante, trabalhando com a listagem, criação, alteração e remoção de produtos. A aplicação renderiza modais para lidar com a criação e atualização de produtos na página dashboard.
+Versão WEB da aplicação desenvolvida para criação de pedidos em restaurante, trabalhando com a listagem, criação, alteração e remoção de produtos. A aplicação renderiza modais para lidar com a criação e atualização de produtos na página dashboard.
 
 <p align="center" >
 <img alt="Home" src="https://res.cloudinary.com/dggw1b0tr/image/upload/v1594144084/studying-react-project-restaurant/dashboard_uzfwsl.png">
